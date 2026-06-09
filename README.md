@@ -4,9 +4,8 @@ Junior Python freelancer focused on practical data cleaning and file automation 
 
 ## Services
 
-- Excel/CSV Data Cleaning — from €15
-- Python File Automation — from €5
-- CSV/Excel Workflow Automation — from €5
+- Excel/CSV Data Cleaning — entry projects from €15
+- Python File Automation — entry projects from € 5
 
 ## Portfolio
 
