@@ -1,16 +1,26 @@
-## Hi there 👋
+# Tommaso — Python Automation & Data Cleaning
 
-<!--
-**tommy06-cik/tommy06-cik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Python freelancer focused on practical data cleaning and file automation workflows.
 
-Here are some ideas to get you started:
+## Services
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Excel/CSV Data Cleaning — from €15
+- Python File Automation — from €5
+- CSV/Excel Workflow Automation — from €5
+
+## Portfolio
+
+### File Automation Toolkit
+Python script that organizes mixed files by type, renames them in batch, prevents overwrites, and generates CSV logs and TXT reports.  
+Status: ready locally — GitHub repository in progress
+
+### CSV Data Cleaning Project
+Python/Pandas project for cleaning messy CSV files, handling duplicates, inconsistent dates, missing values, and formatting issues.  
+Status: ready locally — GitHub repository in progress
+
+
+## Hire me
+
+- Fiverr: https://www.fiverr.com/s/qDmk7Xl
+- LinkedIn: linkedin.com/in/tommaso-virgilio-52383b410
+- Email: (available on request)
