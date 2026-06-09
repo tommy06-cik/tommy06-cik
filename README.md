@@ -12,7 +12,7 @@ Junior Python freelancer focused on practical data cleaning and file automation 
 
 ### File Automation Toolkit
 Python script that organizes mixed files by type, renames them in batch, prevents overwrites, and generates CSV logs and TXT reports.  
-Status: ready locally — GitHub repository in progress
+Status: ready locally — https://github.com/tommy06-cik/tommy06-cik
 
 ### CSV Data Cleaning Project
 Python/Pandas project for cleaning messy CSV files, handling duplicates, inconsistent dates, missing values, and formatting issues.  
