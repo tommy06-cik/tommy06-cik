@@ -16,7 +16,7 @@ Repository: https://github.com/tommy06-cik/file-automation-toolkit
 
 ### CSV Data Cleaning Project
 Python/Pandas project for cleaning messy CSV files, handling duplicates, inconsistent dates, missing values, and formatting issues.  
-Status: ready locally — GitHub repository in progress
+Repository: https://github.com/tommy06-cik/csv-data-cleaning-project
 
 
 ## Hire me
